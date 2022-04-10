@@ -1,7 +1,16 @@
 # python related files 
 .ipynb_checkpoints/
 .vscode/
-__pycached__/
+__pycache__/
+
+# scratch space
+test*.ipynb
 
 # data 
 data/
+
+# fig 
+fig/
+
+# model 
+state_dict.pt 

@@ -8,11 +8,11 @@ import pandas as pd
 
 # ======= io ========
 def read_train():
-    path = 'data/advanced_trainset.csv'
+    path = 'data/raw/advanced_trainset.csv'
     df = pd.read_csv(path)
     return df 
 
 def read_test():
-    path = 'data/advanced_testset.csv'
+    path = 'data/raw/advanced_testset.csv'
     df = pd.read_csv(path)
     return df 
