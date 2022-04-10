@@ -5,6 +5,7 @@ __pycache__/
 
 # scratch space
 test*.ipynb
+!test_bert.ipynb
 
 # data 
 data/
