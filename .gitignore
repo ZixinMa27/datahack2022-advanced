@@ -1,0 +1,7 @@
+# python related files 
+.ipynb_checkpoints/
+.vscode/
+__pycached__/
+
+# data 
+data/
